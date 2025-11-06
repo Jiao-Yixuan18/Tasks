@@ -5,7 +5,7 @@
 
 2.[创建个人主页的收获]()
 
-3.[GitHub学习笔记]()
+3.[Github Study Notes.md]()
 
 4.[Markdown学习笔记]()
 
