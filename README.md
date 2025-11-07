@@ -16,16 +16,13 @@
 # 阶段二学习成果
 
 ---
-1.[任务内容2]
+1.[任务内容2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase%202/%E4%BB%BB%E5%8A%A1%E5%86%85%E5%AE%B92.md)
 
-2.[Git学习笔记]
+2.[Git学习笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase%202/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-3.[Git提交练习文档]
+3.[Git提交练习文档]()
 
-4.[Git进阶笔记]
+4.[问题解决记录2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase%202/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%952.md)
 
-5.[问题解决记录2]()
-
-6.[参考学习资料2]()
 
 
