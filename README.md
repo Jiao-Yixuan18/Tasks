@@ -13,12 +13,17 @@
 
 6.[Markdown进阶笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Markdown%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.md)
 
+7.[问题解决记录1]("D:\lenovo\Documents\Phase 1\问题解决记录1.md")
+
 # 阶段二学习成果
+
+---
 
 1.[Git学习笔记]
 
 2.[Git提交练习文档]
 
-3.[问题解决记录]
+3.[Git进阶笔记]
 
-4.[Git进阶笔记]
+# 问题解决记录
+
