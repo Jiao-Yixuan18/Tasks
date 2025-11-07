@@ -20,7 +20,7 @@
 
 2.[Git学习笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase%202/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-3.[Git提交练习文档]()
+3.[Git提交练习文档](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase%202/Git%E6%8F%90%E4%BA%A4%E7%BB%83%E4%B9%A0%E6%96%87%E6%A1%A3.md)
 
 4.[问题解决记录2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase%202/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%952.md)
 
