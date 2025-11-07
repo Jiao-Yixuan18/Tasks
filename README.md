@@ -13,7 +13,7 @@
 
 6.[Markdown进阶笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Markdown%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.md)
 
-7.[问题解决记录1]("D:\lenovo\Documents\Phase 1\问题解决记录1.md")
+7.[问题解决记录1](https://github.com/Jiao-Yixuan18/Tasks/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%951.md)
 
 # 阶段二学习成果
 
