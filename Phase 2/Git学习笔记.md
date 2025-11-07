@@ -6,43 +6,6 @@
 
 初步掌握了markdown语法，学习了GitHub
 
-## 学习内容的目录
-这是内容[学会使用 Git 推送项目](#学会使用 Git 推送项目)
-- 这是内容[B](#B)
-- [学会使用 Git 推送项目](#学会使用 Git 推送项目)
-- [学习如何与他人在Github 上协作完成项目](#学习如何与他人在Github 上协作完成项目)
-### 目录                      ## 目录 即为一个锚点
- 
-[1. 这是一个目录跳转示例](#1)   ## 跳转到锚点 1
- 
-[2. 这是一个目录跳转示例](#2)   ## 跳转到锚点 2
- 
-[3. 这是一个目录跳转示例](#3)   ## 跳转到锚点 3
- 
- 
-<p id="1"></p>               ## 设定锚点 1
-[注意：此处要空一行]
-### 1. 这是一个目录跳转示例
- 
-内容
- 
-[返回目录](#目录)              ## 跳转到锚点 目录，CSDn 无法添加
- 
-<p id="2"></p>               ## 设定锚点 2
-[注意：此处要空一行]
-### 2. 这是一个目录跳转示例
- 
-内容
- 
-[返回目录](#目录)             ## 跳转到锚点 目录，CSDn 无法添加
- 
-<p id="3"></p>               ## 设定锚点 3
-[注意：此处要空一行]
-### 3. 这是一个目录跳转示例
- 
-内容
- 
-[返回目录](#目录)             ## 跳转到锚点 目录，CSDn 无法添加
 ## 学习内容
 
 #### 学会使用 Git 推送项目
@@ -85,7 +48,7 @@ git push -u origin master
 可能会出现提示是否继续连接的输入项，输入 yes 即可
 
 
-### Git命令
+#### Git命令
 [Git命令](https://blog.csdn.net/u011709538/article/details/132618844?ops_request_misc=%257B%2522request%255Fid%2522%253A%25224c1c6fb175393b1458408a10f0dc6a50%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=4c1c6fb175393b1458408a10f0dc6a50&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-132618844-null-null.142^v102^pc_search_result_base5&utm_term=git%E5%91%BD%E4%BB%A4&spm=1018.2226.3001.4187)
 
 #### 学习如何与他人在Github 上协作完成项目
@@ -97,3 +60,4 @@ git push -u origin master
 1. [Git安装及使用](https://blog.csdn.net/qq_39809160/article/details/145712755?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522250f5a39f47509b74693bfd3f1d02d6e%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=250f5a39f47509b74693bfd3f1d02d6e&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-4-145712755-null-null.142^v102^pc_search_result_base5&utm_term=%E4%BF%9D%E5%A7%86%E7%BA%A7Git%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187)
 
 2. [廖雪峰的Git教程](https://liaoxuefeng.com/books/git/introduction/index.html)
+
