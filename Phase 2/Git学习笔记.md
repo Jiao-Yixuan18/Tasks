@@ -119,7 +119,13 @@ git push -u origin master
   
 💻以下为我在提交我的Git学习感想时的操作：
 
-![终于成功啦1](https://github.com/user-attachments/assets/7379f948-1d02-486e-be90-b0ffb991f5f6)
+1.Fork 2025-Geek 这个仓库
+
+2.在我的主页已经被我Fork的仓库里点开first_half_tasks这个分支中git-idea文件夹
+
+3.在git-idea文件夹里添加“焦怡煖的Git学习感想”这个文档
+
+4.Pull Request 填写title和描述
 
 
 
@@ -128,6 +134,7 @@ git push -u origin master
 1. [Git安装及使用](https://blog.csdn.net/qq_39809160/article/details/145712755?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522250f5a39f47509b74693bfd3f1d02d6e%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=250f5a39f47509b74693bfd3f1d02d6e&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-4-145712755-null-null.142^v102^pc_search_result_base5&utm_term=%E4%BF%9D%E5%A7%86%E7%BA%A7Git%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187)
 
 2. [廖雪峰的Git教程](https://liaoxuefeng.com/books/git/introduction/index.html)
+
 
 
 
