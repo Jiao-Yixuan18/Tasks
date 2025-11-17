@@ -62,8 +62,6 @@ HTML笔记补充
 
 #### 图像
 
-<img src="" alt="" title="" width="">
-
 <img>是单标签，不需要进行闭合操作
 
 属性：
@@ -91,8 +89,6 @@ HTML笔记补充
 * 同级关系  ./  (可省略)  
 
 （3）网络路径：具体的网络地址
-
-<img src="http://略" alt="">
 
 #### 链接
 
@@ -152,6 +148,7 @@ HTML笔记补充
 action 服务器地址
 name 表单名称
 * method中post和get的区别
+  
 1.数据提交方式，get把提交的数据url可以看到，post看不到
 
 2.get一般用于提交少量数据，post一般用于提交大量数据
@@ -188,3 +185,4 @@ name 表单名称
 1. [HTML 简介 | 菜鸟教程](https://www.runoob.com/html/html-intro.html)
 
 2. 2.[bilibili学习视频](https://www.bilibili.com/video/BV1oz421q7BB/?spm_id_from=333.337.search-card.all.click&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
+
