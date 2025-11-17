@@ -9,9 +9,13 @@
 ## 学习内容的目录
 
 - [JavaScript是什么](#JavaScript是什么)
-- 这是内容[JavaScript是什么](#)
-- 这是内容[B](#B)
-
+- [第一个JavaScript程序](#第一个JavaScript程序)
+- [搭建开发环境](#搭建开发环境)
+- [在浏览器里使用JS文件](#在浏览器里使用JS文件)
+- [编程原则之关注点分离](#编程原则之关注点分离)
+- [变量与常量](#变量与常量)
+- [数据类型](#数据类型)
+- [参考资料](#搭建开发环境)
 ## 学习内容
 
 ### JavaScript是什么
@@ -82,13 +86,10 @@ let值可以被修改，const不能
 
 引用数据类型（对象类型）：对象(Object)、数组(Array)、函数(Function)，还有两个特殊的对象：正则（RegExp）和日期（Date）。
 
-### 模版字符串
-
-
-
-
+> 其他在菜鸟教程有更详细系统的笔记
 ## 参考资料
 
-1. [JavaScript]()
+1. [JavaScript菜鸟教程](https://www.runoob.com/js/js-tutorial.html)
 
-2. [bilibili]
+2. [bilibili JS入门教程](https://www.bilibili.com/video/BV15L4y1a7or?spm_id_from=333.788.videopod.episodes&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
+
