@@ -41,8 +41,10 @@ Node是一个包含谷歌浏览器V8引擎的C++程序，实现了在谷歌浏�
 ### 第一个JavaScript程序
 
 打开浏览器，按F12，打开开发者工具，点击Console按钮，这是JavaScript控制台，在其中可以写JavaScript代码
-1. ```JavaScript
+1. 输入
+
 console.log('Hello World');
+
 回车执行可得到Hello World
 2. 数学运算
 2+2
@@ -92,4 +94,5 @@ let值可以被修改，const不能
 1. [JavaScript菜鸟教程](https://www.runoob.com/js/js-tutorial.html)
 
 2. [bilibili JS入门教程](https://www.bilibili.com/video/BV15L4y1a7or?spm_id_from=333.788.videopod.episodes&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
+
 
