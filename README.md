@@ -27,7 +27,7 @@
 # 阶段三学习成果
 
 ---
-1. [HTML学习笔记](./phase3/HTML学习笔记.md)）
+1. [HTML学习笔记](./phase3/HTML学习笔记.md)
 
 
 
