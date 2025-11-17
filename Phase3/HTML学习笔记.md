@@ -82,21 +82,13 @@ HTML笔记补充
 
 （1）绝对路径：电脑的盘符储存与访问的具体地址
 
-<img src="E:\略">
-
 （2）相对路径：两者相对关系，两者在同一路径下可以直接访问
 
 * 子级关系  /
 
-  ![同级子级](C:\Users\lenovo\Desktop\同级子级.jpg)
-
 * 父级关系  ../
 
-  ![父级](C:\Users\lenovo\Desktop\父级.jpg)
-
-* 同级关系  ./  (可省略)
-
-  
+* 同级关系  ./  (可省略)  
 
 （3）网络路径：具体的网络地址
 
@@ -107,8 +99,6 @@ HTML笔记补充
 1.<a>里要写完整的URL，从http开始
 
 2.点击图片跳转到其他位置
-
-![图片链接](C:\Users\lenovo\Desktop\图片链接.jpg)
 
 3.超链接表现
 
@@ -151,16 +141,6 @@ HTML笔记补充
   水平合并 colspan
 
   垂直合并 rowspan
-
-  ![合并单元格1](C:\Users\lenovo\Desktop\合并单元格1.jpg)
-  
-  ![合并单元格2](C:\Users\lenovo\Desktop\合并单元格2.jpg)
-  
-  ![合并单元格4](C:\Users\lenovo\Desktop\合并单元格4.jpg)
-  
-  ![合并单元格3](C:\Users\lenovo\Desktop\合并单元格3.jpg)
-  
-  
   
   #### 表单
   
@@ -206,4 +186,5 @@ name 表单名称
 ## 参考资料
 
 1. [HTML 简介 | 菜鸟教程](https://www.runoob.com/html/html-intro.html)
+
 2. 2.[bilibili学习视频](https://www.bilibili.com/video/BV1oz421q7BB/?spm_id_from=333.337.search-card.all.click&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
