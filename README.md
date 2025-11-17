@@ -29,5 +29,15 @@
 ---
 1. [HTML学习笔记](./phase3/HTML学习笔记.md)
 
+2. [CSS学习笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase3/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+3. [JavaScript学习笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase3/JavaSpcript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+4. [静态页面作品链接](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase3/%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2%E4%BD%9C%E5%93%81%E9%93%BE%E6%8E%A5.md)
+
+5. [页面编后感](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase3/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)
+
+6. [问题解决记录3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase3/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%953.md)
+
 
 
