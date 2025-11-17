@@ -95,26 +95,55 @@ Ctrl+v粘贴图片
 
 无序列表，使用*、+、-，再加一个空格作为列表的标记
 
+* 无序列表1
++ 无序列表2
+- 无序列表3
+
 有序列表，使用数字并加上.号，再加一个空格作为列表的标记
 
-<img width="577" height="391" alt="列表一" src="https://github.com/user-attachments/assets/dc62a7ee-a32e-48bb-a2a8-94de1ae95d8c" />
-
+1. 有序列表1
+2. 有序列表2
+3. 有序列表3
 
 如果想要控制列表的层级，则需要在列表符号前使用Tab
 
 <img width="592" height="488" alt="列表二" src="https://github.com/user-attachments/assets/b00d706a-e952-46d9-ab1d-9c29e844832e" />
 
+* 无序列表
+    * 无序列表
++ 无序列表
+    + 无序列表
+- 无序列表
+    - 无序列表
+1. 有序列表
+    1. 有序列表
+2. 有序列表
+    2. 有序列表
+3. 有序列表
+    3. 有序列表
+
 ### 八、分割线
 
 分割线的使用，可以在一行中用三个-or*来建立一个分割线，但是注意：在分割线的上面空一行！！！
+
+---
+分割线
+
+***
+分割线
 
 ### 九、删除线
 
 在要添加删除线的文字**前后**添加**两个~**
 
+~~删除~~
+
 ### 十、下划线
 
 在需要添加下划线的文字**首尾**添加<u>文本</u>
+
+<u>下划线</u>
+
 
 ### 十一、代码块
 
@@ -124,10 +153,19 @@ Markdown中代码块有两种：
 
 <img width="590" height="173" alt="代码块1" src="https://github.com/user-attachments/assets/7a95c069-faff-4035-9462-c7bdd3b95221" />
 
+`Hello` world
+
 
 * 如果是在一个块内需要引用代码，则在需要引用的代码块的前一行和后一行使用三个反引号，同时在前一个反引号后写入代码的语言。
 
 <img width="596" height="283" alt="代码块2" src="https://github.com/user-attachments/assets/ca38b369-460d-4f52-999c-5bde9e2f7046" />
+
+```cpp
+#include<iostream>
+int main(){
+printf("HelloWorld")
+}
+```
 
 ### 十二、表格
 
@@ -189,23 +227,9 @@ $$表示整行公式
 
 在公式前写$$
 
-### 三、绘制流程图
+$$v=s/t$$
 
-<img width="352" height="286" alt="image" src="https://github.com/user-attachments/assets/5bdc4748-6aaf-4e23-9214-0e7e2bc1ca45" />
-
-<img width="581" height="346" alt="流程图2" src="https://github.com/user-attachments/assets/a0d4208f-cee7-4bd2-ac99-b24a17d7698a" />
-
-### 四、绘制序列图
-
-<img width="545" height="476" alt="image" src="https://github.com/user-attachments/assets/74537060-aca9-45cb-9e42-b5aa0639e9fa" />
-
-### 五、绘制甘特图
-
-<img width="406" height="343" alt="甘特图1" src="https://github.com/user-attachments/assets/3a1d82bb-f7ec-4d7b-943e-189d8293bd3e" />
-
-<img width="591" height="285" alt="甘特图2" src="https://github.com/user-attachments/assets/b961eda6-a30b-40e8-8cb6-cde48b1d4719" />
-
-### 六、Html
+### 三、Html
 
 * Markdown支持原生HTML语法
 
@@ -226,5 +250,6 @@ $$表示整行公式
         <td>王平</td>
     </tr>
 </table>
+
 
 * 可以实现对字体格式的改变
