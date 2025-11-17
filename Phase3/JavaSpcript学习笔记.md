@@ -8,7 +8,8 @@
 
 ## 学习内容的目录
 
-- 这是内容[A](#A)
+- [JavaScript是什么](#JavaScript是什么)
+- 这是内容[JavaScript是什么](#)
 - 这是内容[B](#B)
 
 ## 学习内容
@@ -89,4 +90,5 @@ let值可以被修改，const不能
 ## 参考资料
 
 1. [JavaScript]()
+
 2. [bilibili]
