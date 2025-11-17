@@ -184,5 +184,6 @@ name 表单名称
 
 1. [HTML 简介 | 菜鸟教程](https://www.runoob.com/html/html-intro.html)
 
-2. 2.[bilibili学习视频](https://www.bilibili.com/video/BV1oz421q7BB/?spm_id_from=333.337.search-card.all.click&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
+2. [bilibili学习视频](https://www.bilibili.com/video/BV1oz421q7BB/?spm_id_from=333.337.search-card.all.click&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
+
 
