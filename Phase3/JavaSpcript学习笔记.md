@@ -46,12 +46,19 @@ Node是一个包含谷歌浏览器V8引擎的C++程序，实现了在谷歌浏�
 console.log('Hello World');
 
 回车执行可得到Hello World
+
 2. 数学运算
+
 2+2
+
 回车得到4
-3. 输入alert函数
+
+4. 输入alert函数
+
 例：输入alert('yo');
+
 回车浏览器蹦出一个带yo的窗口
+
 ### 搭建开发环境
 VS code(推荐)
 Sublime Text
@@ -94,5 +101,6 @@ let值可以被修改，const不能
 1. [JavaScript菜鸟教程](https://www.runoob.com/js/js-tutorial.html)
 
 2. [bilibili JS入门教程](https://www.bilibili.com/video/BV15L4y1a7or?spm_id_from=333.788.videopod.episodes&vd_source=6aba70bfaeecdb8314d86a42c169cfd0)
+
 
 
