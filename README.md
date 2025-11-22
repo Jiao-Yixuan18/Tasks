@@ -27,7 +27,7 @@
 # 阶段三学习成果
 
 ---
-1. [HTML学习笔记](./phase3/HTML学习笔记.md)
+1. [HTML学习笔记](./Phase3/HTML学习笔记.md)
 
 2. [CSS学习笔记](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase3/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
