@@ -39,5 +39,16 @@
 
 6. [问题解决记录3](./Phase3/问题解决记录3.md)
 
+# 阶段四学习成果
+---
+1. [复刻页面链接](https://jiao-yixuan18.github.io/Geek-recruitment.github.io/)
+
+2. [页面编后感](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase4/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F%EF%BC%88Geek%E7%BB%84%E6%8B%9B%E6%96%B0%EF%BC%89.md)
+
+3. [问题解决记录4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase4/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%954.md)
+
+
+
+
 
 
