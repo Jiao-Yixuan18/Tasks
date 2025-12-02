@@ -41,7 +41,7 @@
 
 # 阶段四学习成果
 ---
-1. [复刻页面链接](http://127.0.0.1:5500/index.html)
+1. [复刻页面链接](https://jiao-yixuan18.github.io/Geek-recruitment.github.io/)
 
 2. [页面编后感](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase4/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F%EF%BC%88Geek%E7%BB%84%E6%8B%9B%E6%96%B0%EF%BC%89.md)
 
