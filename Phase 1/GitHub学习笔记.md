@@ -52,7 +52,9 @@ https://blog.csdn.net/yy17111342926/article/details/145791647?ops_request_misc=%
 | Clone        | 把远程仓库下载到本地电脑，方便离线编辑代码 |
 | Pull Request | 把Fork后修改的内容，申请合并回原项目       |
 | Star         | 收藏项目                                   |
+|follow|跟随，相当于关注某个账号|
 
 等等
+
 
   
