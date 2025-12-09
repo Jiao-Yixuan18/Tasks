@@ -225,7 +225,7 @@ printf("HelloWorld")
 
 $$表示整行公式
 
-在公式前写$$
+在公式前后写$$
 
 $$v=s/t$$
 ### 三、Html
@@ -233,6 +233,21 @@ $$v=s/t$$
 * Markdown支持原生HTML语法
 
 例：
+```markdown
+<table>
+    <tr>
+        <th rowspan="2">值班人员</th>
+        <th>星期一</th>
+        <th>星期二</th>
+        <th>星期三</th>
+    </tr>
+    <tr>
+        <td>李强</td>
+        <td>张明</td>
+        <td>王平</td>
+    </tr>
+</table>
+```
 
 效果：
 
@@ -252,4 +267,5 @@ $$v=s/t$$
 
 
 * 可以实现对字体格式的改变
+
 
