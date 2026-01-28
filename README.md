@@ -47,7 +47,13 @@
 
 3. [问题解决记录4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase4/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%954.md)
 
+# 阶段六学习成果
+---
+1.[xss-labs通关复现]
 
+2.[vulfocus靶场xss漏洞复现]
+
+3.[小总结]
 
 
 
