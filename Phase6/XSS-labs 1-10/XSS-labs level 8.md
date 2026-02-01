@@ -8,21 +8,21 @@
 
 1.页面有一个链接
 
-![8-1](D:\Geek考核\Phase6\phase6-png\8-1.png)
+![8-1](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-1.png)
 
 点一下试试
 
-![8-2](D:\Geek考核\Phase6\phase6-png\8-2.png)
+![8-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-2.png)
 
 404 没有找到资源
 
 2.试试闭合input标签
 
-![8-3](D:\Geek考核\Phase6\phase6-png\8-3.png)
+![8-3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-3.png)
 
 没变化，查看源代码
 
-![8-4](D:\Geek考核\Phase6\phase6-png\8-4.png)
+![8-4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-4.png)
 
 发现html中的一些特殊符号被实体转义了
 
@@ -34,38 +34,39 @@
 
 3.试试javascript伪协议
 
-![8-5](D:\Geek考核\Phase6\phase6-png\8-5.png)
+![8-5](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-5.png)
 
 点击按钮和链接都没反应，查看源码
 
-![8-6](D:\Geek考核\Phase6\phase6-png\8-6.png)
+![8-6](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-6.png)
 
 发现被过滤了
 
 4.试试双写绕过
 
-![8-7](D:\Geek考核\Phase6\phase6-png\8-7.png)
+![8-7](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-7.png)
 
 
 
-![8-8](D:\Geek考核\Phase6\phase6-png\8-8.png)
+![8-8](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-8.png)
 
 依旧被过滤
 
 5.试试大小写混淆
 
-![8-9](D:\Geek考核\Phase6\phase6-png\8-9.png)
+![8-9](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-9.png)
 
 
 
-![8-10](D:\Geek考核\Phase6\phase6-png\8-10.png)
+![8-10](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-10.png)
 
 依旧被过滤
 
 6.浏览器在解析js属性值时,支持十进制和十六进制Unicode编码形式，所以可以把href的值改为javascript伪代码的Unicode形式
 
-![8-11](D:\Geek考核\Phase6\phase6-png\8-11.png)
+![8-11](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-11.png)
 
-![8-12](D:\Geek考核\Phase6\phase6-png\8-12.png)
+![8-12](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-12.png)
 
-![8-13](D:\Geek考核\Phase6\phase6-png\8-13.png)
+
+![8-13](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/8-13.png)
