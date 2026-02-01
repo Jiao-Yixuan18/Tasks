@@ -7,34 +7,35 @@
 
 1.试试javascript伪协议
 
-![6-1](D:\Geek考核\Phase6\phase6-png\6-1.png)
+![6-1](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-1.png)
 
 不行，打开开发者工具看看是什么原因
 
-![6-2](D:\Geek考核\Phase6\phase6-png\6-2.png)
+![6-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-2.png)
 
 href被过滤了
 
 2.试试onclick
 
-![6-3](D:\Geek考核\Phase6\phase6-png\6-3.png)
+![6-3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-3.png)
 
-![6-4](D:\Geek考核\Phase6\phase6-png\6-4.png)
+![6-4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-4.png)
 
 onclick被过滤了
 
 3.试试js代码
 
-![6-5](D:\Geek考核\Phase6\phase6-png\6-5.png)
+![6-5](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-5.png)
 
-![6-6](D:\Geek考核\Phase6\phase6-png\6-6.png)
+![6-6](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-6.png)
 
 前面的script被过滤了
 
 4.试试大小写混淆，把script中被过滤的改成大写
 
-![6-7](D:\Geek考核\Phase6\phase6-png\6-7.png)
+![6-7](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-7.png)
 
-![6-8](D:\Geek考核\Phase6\phase6-png\6-8.png)
+![6-8](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/6-8.png)
+
 
 level6通关
