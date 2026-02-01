@@ -12,40 +12,41 @@
 
 看看源码
 
-![10-2](D:\Geek考核\Phase6\phase6-png\10-2.png)
+![10-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-2.png)
 
 发现`input`标签里`type`属性的值是`hidden`，输入框被隐藏了
 
 2.从url栏里输入参数
 
-![10-3](D:\Geek考核\Phase6\phase6-png\10-3.png)
+![10-3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-3.png)
 
 js代码没有执行
 
 3.在url给input传参
 
-![10-4](D:\Geek考核\Phase6\phase6-png\10-4.png)
+![10-4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-4.png)
 
-![10-5](D:\Geek考核\Phase6\phase6-png\10-5.png)
+![10-5](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-5.png)
 
 发现只有t_sort的参数被传入了，所以可以利用t_sort来构造payload
 
 4.沿用上一关方法，把hidden注释掉
 
-![10-6](D:\Geek考核\Phase6\phase6-png\10-6.png)
+![10-6](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-6.png)
 
-![10-7](D:\Geek考核\Phase6\phase6-png\10-7.png)
+![10-7](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-7.png)
 
 发现`>`被过滤了
 
 5.换个思路，直接在开发者工具将type的值改为button
 
-![10-8](D:\Geek考核\Phase6\phase6-png\10-8.png)
+![10-8](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-8.png)
 
 点击页面上出现的写有4的按钮
 
-![10-9](D:\Geek考核\Phase6\phase6-png\10-9.png)
+![10-9](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-9.png)
 
 
 level 10通关
+
 
