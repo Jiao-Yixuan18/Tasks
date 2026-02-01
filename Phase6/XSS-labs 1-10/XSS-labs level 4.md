@@ -12,26 +12,27 @@
 
 1.打开开发者工具，依旧是触发弹窗跳转到下一关
 
-![4-2](D:\Geek考核\Phase6\phase6-png\4-2.png)
+![4-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/4-2.png)
 
 2.尝试level3的方法
 
-![4-3](D:\Geek考核\Phase6\phase6-png\4-3.png)
+![4-3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/4-3.png)
 
-![4-4](D:\Geek考核\Phase6\phase6-png\4-4.png)
+![4-4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/4-4.png)
 
 失败
 
 3.查看源代码是否有实体转义
 
-![4-5](D:\Geek考核\Phase6\phase6-png\4-5.png)
+![4-5](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/4-5.png)
 
 发现源代码没有实体转义，只是闭合不能再用单引号
 
 4.用双引号闭合属性值
 
-![4-6](D:\Geek考核\Phase6\phase6-png\4-6.png)
+![4-6](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/4-6.png)
 
-![4-7](D:\Geek考核\Phase6\phase6-png\4-7.png)
+![4-7](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/4-7.png)
+
 
 level4通关
