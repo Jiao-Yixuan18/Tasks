@@ -8,7 +8,7 @@
 
 1.页面没有输入框了
 
-![10-1](D:\Geek考核\Phase6\phase6-png\10-1.png)
+![10-1](..\phase6-png\10-1.png)
 
 看看源码
 
@@ -45,5 +45,6 @@ js代码没有执行
 点击页面上出现的写有4的按钮
 
 ![10-9](D:\Geek考核\Phase6\phase6-png\10-9.png)
+
 
 level 10通关
