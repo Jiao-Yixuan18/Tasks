@@ -8,21 +8,21 @@
 
 1.试试javascript伪代码
 
-![9-1](D:\Geek考核\Phase6\phase6-png\9-1.png)
+![9-1](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-1.png)
 
-![9-2](D:\Geek考核\Phase6\phase6-png\9-2.png)
+![9-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-2.png)
 
 提示：您的链接不合法？有没有！
 
 2.查看源码
 
-![9-6](D:\Geek考核\Phase6\phase6-png\9-6.png)
+![9-6](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-6.png)
 
 发现输入的值不能再和上关一样，能写入a标签的href属性值里
 
 在博客学习level9复现过程，发现需要检查后台源代码
 
-3.用vscode打开level9.php查看![9-4](D:\Geek考核\Phase6\phase6-png\9-4.png)
+3.用vscode打开level9.php查看![9-4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-4.png)
 
 `strpos()`函数的作用是在字符串$str7中查找子串‘http://'第一次出现的位置：
 
@@ -40,7 +40,7 @@
 
 
 
-![9-5](D:\Geek考核\Phase6\phase6-png\9-5.png)
+![9-5](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-5.png)
 
 被转义了
 
@@ -50,17 +50,17 @@
 
 5.试试javascript伪代码，把http://注释掉
 
-![](D:\Geek考核\Phase6\phase6-png\9-15.png)
+![9-15](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-15.png)
 
 
 
-![9-16](D:\Geek考核\Phase6\phase6-png\9-16.png)依旧被过滤，试试编码
+![9-16](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-16.png)依旧被过滤，试试编码
 
-![9-10](D:\Geek考核\Phase6\phase6-png\9-10.png)
+![9-10](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-10.png)
 
-![9-13](D:\Geek考核\Phase6\phase6-png\9-13.png)
+![9-13](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-13.png)
 
-![9-14](D:\Geek考核\Phase6\phase6-png\9-14.png)
+![9-14](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/9-14.png)
 
 通关了
 
@@ -70,3 +70,4 @@
 * 双写
 * 编码
 * js伪协议
+
