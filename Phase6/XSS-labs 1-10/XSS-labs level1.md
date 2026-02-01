@@ -10,11 +10,11 @@
 
 1.打开开发者工具查看源代码
 
-![](D:\Geek考核\Phase6\phase6-png\1-1.png)
+![](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/1-1.png)
 
 2.在源代码里找到一段js代码
 
-![1-1.5](D:\Geek考核\Phase6\phase6-png\1-1.5.png)
+![1-1.5](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/1-1.5.png)
 
 这段代码重写了alert函数，任何地方调用alert()时，都会执行这个自定义函数
 
@@ -32,11 +32,11 @@ name的值test在浏览器被渲染出来，所以可以通过修改name的值�
 
 把name的值修改为`<script>alert(1)</script>`
 
-![1-2](D:\Geek考核\Phase6\phase6-png\1-2.png)
+![1-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/1-2.png)
 
 3.回车，浏览器渲染时，遇到html里的被我输入的js代码，执行它
 
-![1-3](D:\Geek考核\Phase6\phase6-png\1-3.png)
+![1-3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/1-3.png)
 
 跳出弹窗：完成的不错！
 
@@ -62,6 +62,7 @@ level1通关
   A3：浏览器的安全模型是“信任服务器返回的内容”，它无法区分输入的脚本是合法的还是恶意的，只要服务器返回的html里包含恶意脚本js代码，它就会执行
 
   
+
 
 
 
