@@ -8,7 +8,7 @@
 
 1.页面没有输入框了
 
-![10-1](..\phase6-png\10-1.png)
+![10-1](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/10-1.png)
 
 看看源码
 
@@ -48,3 +48,4 @@ js代码没有执行
 
 
 level 10通关
+
