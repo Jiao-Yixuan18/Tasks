@@ -8,16 +8,17 @@
 
 1.试试js代码
 
-![7-1](D:\Geek考核\Phase6\phase6-png\7-1.png)
+![7-1](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/7-1.png)
 
-![7-2](D:\Geek考核\Phase6\phase6-png\7-2.png)
+![7-2](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/7-2.png)
 
 发现script整个被过滤了
 
 2.试试双写绕过
 
-![7-3](D:\Geek考核\Phase6\phase6-png\7-3.png)
+![7-3](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/7-3.png)
 
-![7-4](D:\Geek考核\Phase6\phase6-png\7-4.png)
+![7-4](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/phase6-png/7-4.png)
+
 
 level7通关
