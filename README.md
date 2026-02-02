@@ -49,11 +49,9 @@
 
 # 阶段六学习成果
 ---
-1.[xss-labs通关复现]
+1.[xss-labs通关复现](https://github.com/Jiao-Yixuan18/Tasks/tree/main/Phase6/XSS-labs%201-10)
 
-2.[vulfocus靶场xss漏洞复现]
-
-3.[小总结]
+2.[小总结]
 
 
 
