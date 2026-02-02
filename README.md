@@ -51,7 +51,7 @@
 ---
 1.[xss-labs通关复现](https://github.com/Jiao-Yixuan18/Tasks/tree/main/Phase6/XSS-labs%201-10)
 
-2.[小总结]
+2.[小总结](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/%E9%98%B6%E6%AE%B5%E5%85%AD%E5%B0%8F%E6%80%BB%E7%BB%93.md)
 
 
 
