@@ -129,7 +129,7 @@ print(str(stu))     # 也会调用 __str__ 方法
 
   将现实世界事物封装到类中，从而完成程序对现实世界事物的描述
 
-  ![15](D:\Geek考核\Phase7\Phase7-png\15.png)
+  ![15](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/15.png)
 
 * 私有成员
   * 定义：用**双下划线 `__` 开头**来定义私有成员
@@ -410,3 +410,4 @@ ITHEIMA
 
     * 抽象的父类设计（设计标准）
     * 具体的子类实现（实现标准）
+
