@@ -4,19 +4,19 @@
 
 * 1.获取网页内容
 
-  ![16](D:\Geek考核\Phase7\Phase7-png\16.png)
+  ![16](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/16.png)
 
   基础知识：HTTP请求、Python Requests库
 
 * 2.解析网页内容
 
-  ![17](D:\Geek考核\Phase7\Phase7-png\17.png)
+  ![17](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/17.png)
 
   基础知识：HTML、Python的Beautiful Soup、XPath库、正则表达式
 
 * 3.储存数据或分析数据
 
-  ![image-20260210231800471](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260210231800471.png)
+  ![31](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/31.png)
 
   基础知识：CSV、JSON等纯文本数据格式、MySQL数据库
 
@@ -36,7 +36,7 @@
 
 比如，浏览器就可以看做客户端，当我们在浏览器地址栏输入想访问的网址，按下回车后，浏览器就会向运行该网站的服务器发送一个请求 ，然后等待服务器返回给浏览器响应
 
-![18](D:\Geek考核\Phase7\Phase7-png\18.png)
+![18](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/18.png)
 
 ###### 请求方法
 
@@ -52,7 +52,7 @@
 
 ###### HTTP请求结构
 
-  ![19](D:\Geek考核\Phase7\Phase7-png\19.png)
+  ![19](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/19.png)
 
   * 请求行：
 
@@ -62,7 +62,7 @@
 
       指明了你要访问服务器的哪个资源
 
-      ![20](D:\Geek考核\Phase7\Phase7-png\20.png)
+      ![20](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/20.png)
 
       `?`后面是查询参数，可以传递给服务器额外的信息，不同信息之间用`&`分隔
 
@@ -78,15 +78,15 @@
 
     * `Host`  主机域名，主机域名结合请求行里的资源路径，可以得到一个完整的网址
 
-      ![21](D:\Geek考核\Phase7\Phase7-png\21.png)
+      ![21](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/21.png)
 
     * `User-Agent`  用来告知服务器客户端的相关信息
 
-      ![22](D:\Geek考核\Phase7\Phase7-png\22.png)
+      ![22](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/22.png)
 
     * `Accept` 告诉服务器，客户端想接收的响应数据是什么类型
 
-      ![23](D:\Geek考核\Phase7\Phase7-png\23.png)
+      ![23](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/23.png)
 
 			> `*/*`表示啥类型都行
 		
@@ -96,14 +96,14 @@
 
 ###### HTTP响应
 
-![24](D:\Geek考核\Phase7\Phase7-png\24.png)
+![24](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/24.png)
 
 * 状态行
 
   * 协议版本  `HTTP/1.1`
   * 状态码  `200`
 
-  ![25](D:\Geek考核\Phase7\Phase7-png\25.png)
+  ![25](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/25.png)
 
   * 状态消息  `OK`
 
@@ -159,11 +159,11 @@ D:\Scripts\python.exe "D:\Tools\PyCharm\PyCharmProject\py_project01\第五章 - 
 
 当我们正常使用浏览器时，浏览器会发送GET请求，并且请求头的User-Agent会自动带有浏览器类型及版本，还有电脑操作系统
 
-![26](D:\Geek考核\Phase7\Phase7-png\26.png)
+![26](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/26.png)
 
 用代码发送请求，不会带有这些浏览器相关信息
 
-![27](D:\Geek考核\Phase7\Phase7-png\27.png)
+![27](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/27.png)
 
 服务器可以通过这点判断进来的请求是来自浏览器还是程序
 
@@ -173,7 +173,7 @@ D:\Scripts\python.exe "D:\Tools\PyCharm\PyCharmProject\py_project01\第五章 - 
 
 Beautiful Soup把HTML内容解析为下图这样的树状结构
 
-![28](D:\Geek考核\Phase7\Phase7-png\28.png)
+![28](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase7/Phase7-png/28.png)
 
 ```python
 #导入依赖库
@@ -265,4 +265,5 @@ It's Only the Himalayas
 
 进程已结束，退出代码为 0
 ```
+
 
