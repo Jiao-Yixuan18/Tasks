@@ -55,6 +55,14 @@
 
 3.[阶段六小总结](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase6/%E9%98%B6%E6%AE%B5%E5%85%AD%E5%B0%8F%E6%80%BB%E7%BB%93.md)
 
+# 阶段七学习成果
+1.[学习参考资料](./Phase7/阶段七参考资料.md)
+
+2.[python面向对象程序设计](./Phase7/Python面向对象程序设计.md)
+
+3.[python爬虫](./Phase7/python爬虫.md)
+
+4.[阶段七小总结](./Phase7/阶段七小总结.md)
 
 
 
