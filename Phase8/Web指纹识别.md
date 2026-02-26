@@ -20,7 +20,7 @@
 
 ###### 手动识别
 
-![25](D:\Geek考核\Phase8\Phase8-png\25.png)
+![25](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/25.png)
 
 ###### Wappalyzer插件识别
 
@@ -32,7 +32,7 @@
 
 * 常规扫描
 
-![7](D:\Geek考核\Phase8\Phase8-png\7.png)
+![7](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/7.png)
 
 扫描后可得到指纹：
 
@@ -62,17 +62,17 @@
 
 * 批量扫描
 
-![8](D:\Geek考核\Phase8\Phase8-png\8.png)
+![8](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/8.png)
 
-![9](D:\Geek考核\Phase8\Phase8-png\9.png)
+![9](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/9.png)
 
 `Django`:
 
-![33](D:\Geek考核\Phase8\Phase8-png\33.png)
+![33](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/33.png)
 
 `Email`:各种邮箱地址
 
-`JQuery`:![34](D:\Geek考核\Phase8\Phase8-png\34.png)
+`JQuery`:![34](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/34.png)
 
 `Shopify`
 
@@ -82,7 +82,7 @@
 
 * 详细回显扫描
 
-![10](D:\Geek考核\Phase8\Phase8-png\10.png)
+![10](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/10.png)
 
 `whatweb report for http://www.csdn.net`：扫描的目标地址是http://www.csdn.net
 
@@ -94,11 +94,11 @@
 
 `Country:CHINA,CN`:服务器属于中国
 
-![11](D:\Geek考核\Phase8\Phase8-png\11.png)
+![11](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/11.png)
 
-![12](D:\Geek考核\Phase8\Phase8-png\12.png)
+![12](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/12.png)
 
-![13](D:\Geek考核\Phase8\Phase8-png\13.png)
+![13](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/13.png)
 
 
 
@@ -106,9 +106,9 @@
 
 * 强度扫描等级控制
 
-![14](D:\Geek考核\Phase8\Phase8-png\14.png)
+![14](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/14.png)
 
-![15](D:\Geek考核\Phase8\Phase8-png\15.png)
+![15](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/15.png)
 
 * 扫描内网主机
 
@@ -116,19 +116,15 @@
 
 如何得知内网网段？
 
-![16](D:\Geek考核\Phase8\Phase8-png\16.png)
+![16](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/16.png)
 
 命令：whatweb --no-errors -t 255 内网网段
 
-![17](D:\Geek考核\Phase8\Phase8-png\17.png)
-
-* 将扫描结果导出至文件内
-
-![image-20260226165949383](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260226165949383.png)
+![17](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/17.png)
 
 * 查看whatweb插件信息
 
-![32](D:\Geek考核\Phase8\Phase8-png\32.png)
+![32](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/32.png)
 
 
 
@@ -140,14 +136,15 @@
 
 这里以百度为例
 
-![26](D:\Geek考核\Phase8\Phase8-png\26.png)
+![26](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/26.png)
 
 * 点击任意一个技术名，可以跳转到技术介绍页面
 
-![27](D:\Geek考核\Phase8\Phase8-png\27.png)
+![27](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/27.png)
 
-![28](D:\Geek考核\Phase8\Phase8-png\28.png)
+![28](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/28.png)
 
-![29](D:\Geek考核\Phase8\Phase8-png\29.png)
+![29](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/29.png)
 
-![30](D:\Geek考核\Phase8\Phase8-png\30.png)
+
+![30](https://github.com/Jiao-Yixuan18/Tasks/blob/main/Phase8/Phase8-png/30.png)
